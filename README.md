@@ -3,7 +3,7 @@ I am 14 years old programmer. So far i have learned:
 - basics of Python,
 - HTML/CSS,
 - JavaScript
-   - node.js,
+   - [node.js](https://nodejs.org/en),
    - [discord.js](https://discord.js.org),
    - [@minecraft/server](https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/minecraft/server/minecraft-server),
    - [@minecraft/server-ui](https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/minecraft/server-ui/minecraft-server-ui),
