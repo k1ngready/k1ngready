@@ -6,8 +6,9 @@ At this moment I have learned so far:
 - Python (basic knowledge),
 - HTML/CSS (intermediate knowledge),
 - JavaScript (advanced knowldge) and node.js:
- - @minecraft/server
-
+  - @minecraft/server
+  - @minecraft/server-ui
+  - discord.js
 ## Contact
 If you would like to contact me, here is my Discord name:
 - @k1ngready,
