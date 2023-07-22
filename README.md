@@ -9,3 +9,7 @@ At this moment I have learned so far:
  - @minecraft/server,
  - @minecradft/server-ui,
  - discord.js
+
+## Contact
+If you would like to contact me, here is my Discord name:
+- @k1ngready,
