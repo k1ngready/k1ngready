@@ -1,16 +1,11 @@
-## Hello, I am @k1ngready!
-I am 14 years old programmer. So far i have learned:
-- basics of Python,
-- HTML/CSS,
-- JavaScript
-   - [node.js](https://nodejs.org/en),
-   - [discord.js](https://discord.js.org),
-   - [@minecraft/server](https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/minecraft/server/minecraft-server),
-   - [@minecraft/server-ui](https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/minecraft/server-ui/minecraft-server-ui),
- 
+## 👋 Hello, @K1ngready is here!
+My name is Oliwier and I am 14 years old. I have been into comupter science and programming for 2 years from now. By these 2 years I have improved my coding skills by a creating some basic tools and smaller projects for my comfort.
 
-
-<!---
-k1ngready/k1ngready is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Knowledge
+At this moment I have learned so far:
+- Python (basic knowledge),
+- HTML/CSS (intermediate knowledge),
+- JavaScript (advanced knowldge) and node.js:
+ - @minecraft/server,
+ - @minecradft/server-ui,
+ - discord.js
