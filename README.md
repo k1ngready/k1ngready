@@ -1,5 +1,5 @@
 ## 👋 Hello, @K1ngready is here!
-My name is Oliwier and I am 14 years old. I have been into comupter science and programming for 2 years from now. By these 2 years I have improved my coding skills by a creating some basic tools and smaller projects for my comfort.
+Hey, nice to meet you. Let me introduce myself. My name is Oliwier. I have been into comupter science and programming for 2 years from now. By these 2 years I have improved my coding skills by a creating some basic tools and smaller projects for my comfort.
 
 ## Knowledge
 At this moment I have learned so far:
