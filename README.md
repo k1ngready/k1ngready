@@ -11,4 +11,4 @@ At this moment I have learned so far:
   - discord.js
 ## Contact
 If you would like to contact me, here is my Discord name:
-- @k1ngready,
+- @k1ngreqdy,
